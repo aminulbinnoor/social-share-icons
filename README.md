@@ -1,5 +1,5 @@
 # Social Share Buttons
 
-![alt text](http://url/to/social-share-icon.png)
+![alt text](https://github.com/[aminulbinnoor]/[social-share-icons]/blob/[main]/social-share-icon.png?raw=true)
 
 Here is the tutorial: https://youtu.be/OfLvQ8KtW2g
